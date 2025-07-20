@@ -88,8 +88,8 @@ assets/
 
 ## 📱 Screenshots
 
-![App Screenshot](assets/1.png)
 ![App Screenshot](assets/2.png)
+![App Screenshot](assets/1.png)
 
 ## 📄 License
 
