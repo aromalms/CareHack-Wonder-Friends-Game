@@ -88,7 +88,8 @@ assets/
 
 ## 📱 Screenshots
 
-*Add screenshots here to showcase your app!*
+![App Screenshot](assets/1.png)
+![App Screenshot](assets/2.png)
 
 ## 📄 License
 
